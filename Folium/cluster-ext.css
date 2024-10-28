@@ -1,0 +1,64 @@
+/* Gray */
+.marker-cluster-gray {
+   background-color: rgba(129 129 129, 0.6);
+   }
+.marker-cluster-gray div {
+   background-color: rgba(178, 190, 181, 0.6);
+   }
+
+   /* IE 6-8 fallback colors */
+.leaflet-oldie .marker-cluster-gray {
+   background-color: rgb(129 129 129);
+   }
+.leaflet-oldie .marker-cluster-gray div {
+   background-color: rgb(178, 190, 181);
+   }
+
+/* Red */
+.marker-cluster-red{
+   background-color: rgba(250, 160, 160, 0.6);
+   }
+.marker-cluster-red div {
+   background-color: rgba(210, 43, 43, 0.6);
+   }
+
+   /* IE 6-8 fallback colors */
+.leaflet-oldie .marker-cluster-red{
+   background-color: rgb(250, 160, 160);
+   }
+.leaflet-oldie .marker-cluster-red div {
+   background-color: rgb(210, 43, 43);
+   }
+
+
+/* Yellow */
+.marker-cluster-yellow{
+   background-color: rgba(255, 253, 208, 0.6);
+   }
+.marker-cluster-yellow div {
+   background-color: rgba(253, 218, 13, 0.6);
+   }
+
+   /* IE 6-8 fallback colors */
+.leaflet-oldie .marker-cluster-yellow{
+   background-color: rgb(255, 253, 208);
+   }
+.leaflet-oldie .marker-cluster-yellow div {
+   background-color: rgb(253, 218, 13);
+   }
+
+/* LightRed */
+.marker-cluster-lightred{
+   background-color: rgba(255, 178, 166, 0.6);
+   }
+.marker-cluster-lightred div {
+   background-color: rgba(255, 135, 119, 0.6);
+   }
+
+   /* IE 6-8 fallback colors */
+.leaflet-oldie .marker-cluster-lightred{
+   background-color: rgb(255, 178, 166);
+   }
+.leaflet-oldie .marker-cluster-lightred div {
+   background-color: rgb(255, 135, 119);
+   }
